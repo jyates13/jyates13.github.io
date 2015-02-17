@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Hello!"
-date:   2015-02-05 00:28:07
-categories: update
+title:  "My PhD Project"
+date:   2015-02-17 17:29:07
+categories: science
 ---
-Unfortunately, I have nothing to say here (for now). Everything will be updated... at some point...
+
+I thought I would describe my project in a bit more detail. 
