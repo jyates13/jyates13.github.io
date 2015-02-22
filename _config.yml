@@ -1,9 +1,8 @@
 # Site settings
-title: Stupid thing
-email: j.yates.13+bl@googlemail.com
+title: Jack Yates
+email: j.yates.13+bl@gmail.com
 timezone: Europe/London
-description: > # this means to ignore newlines until "baseurl:"
-  My personal website/blog. Very much a work in progress...
+description: PhD student at the University of Edinburgh, studying exoplanets/astrobiology<p>This is my personal website/blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jackyates.co.uk" # the base hostname & protocol for your site
 twitter_username: j_yates_13
