@@ -15,6 +15,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 	{{ post.excerpt }}
+	<span class="post-meta">{{ post.categories | join: ', ' }}</span>
       </li>
     {% endfor %}
   </ul>

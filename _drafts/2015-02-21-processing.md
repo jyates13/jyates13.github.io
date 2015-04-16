@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Processing
+layout: post
+title: "Processing"
+date:   2015-02-21 18:51:00
+categories: programming visualisation
 ---
 
 [Processing](https://processing.org/) is a free programming language primarily designed for visualisation. It's really easy to produce nice graphics, especially if you're looking to do something interactive. I thought I'd write a post to show some examples of stuff that I've managed to do with the language. 
