@@ -25,7 +25,9 @@
   </div>
 
 <script type="text/javascript">
+   {% comment %}
    //var headsHREF = [{% loop_directory directory:banners iterator:image filter:* %} "banners/{{ image }}"{% unless forloop.last %},{% endunless %}{% endloop_directory %}];
+   {% endcomment %}
    var headsHREF = [ "banners/1.jpg", "banners/2.jpg", "banners/3.jpg", "banners/4.jpg", "banners/5.jpg", "banners/6.jpg", "banners/7.jpg" ];
 
    var headsCount = headsHREF.length;
