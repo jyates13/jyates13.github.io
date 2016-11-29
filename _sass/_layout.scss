@@ -22,12 +22,12 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left bottom;
-    color: #000000;
+    color: #FFFFFFF;
 
     &,
     &:visited {
         // color: $grey-color-dark;
-        color: #000000;
+        color: #FFFFFFF;
     }
 }
 
@@ -54,8 +54,8 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        //background-color: $background-color;
+        //border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
 
@@ -73,7 +73,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: #FFFFFF;
                 }
             }
         }
