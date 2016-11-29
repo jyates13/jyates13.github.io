@@ -22,12 +22,12 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left bottom;
-    color: #BB0000;
+    color: #000000;
 
     &,
     &:visited {
         // color: $grey-color-dark;
-        color: #BB0000;
+        color: #000000;
     }
 }
 
@@ -211,7 +211,7 @@
     letter-spacing: -1px;
     line-height: 1;
 
-    color: #BB0000;
+    color: #000000;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
