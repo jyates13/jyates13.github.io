@@ -211,6 +211,7 @@
     letter-spacing: -1px;
     line-height: 1;
 
+    color: #BB0000;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
