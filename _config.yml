@@ -1,13 +1,11 @@
 # Site settings
 title: Jack Yates
-email: j.yates.13@gmail.com
+email: jack@jackyates.co.uk
 timezone: Europe/London
 description: I'm now a software engineer, and astronomy PhD graduate from the University of Edinburgh.<p>Contact me by email (on the right)!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jackyates.co.uk" # the base hostname & protocol for your site
-# url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
-#twitter_username: j_yates_13
-#github_username:  jyates13
+linkedin: "https://www.linkedin.com/in/jackyates13/"
 
 # Build settings
 markdown: kramdown
